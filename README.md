@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @PRICIDON
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I russian
-
+### Hello everyone! 👋 I`m Yuriy, Frontend Developer
+<br />
+👩‍💻 I work on projects changing the world for the better <br />
+🎯 I study new technologies <br />
+💪 I like doing interesting and challenging tasks. <br />
 ## Technologies and tools
 ![](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,3 +16,5 @@
 ![](https://img.shields.io/badge/Material%20UI-000000?style=for-the-badge&logo=mui&logoColor=white)
 ![](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=FFD62E)
 <br />
+## Languages
+🇷🇺 Native speaker <br />
