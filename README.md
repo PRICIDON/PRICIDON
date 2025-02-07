@@ -3,6 +3,7 @@
 👩‍💻 I work on projects changing the world for the better <br />
 🎯 I study new technologies <br />
 💪 I like doing interesting and challenging tasks. <br />
+
 ## Technologies and tools
 ![](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
